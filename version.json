@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Redesign UI completo con palette più profonda e glow effects\n- Sidebar con barra accent animata sulla voce attiva\n- Pulsante Ottimizza con effetto pulse viola\n- DNS Benchmark con barre progress visive colorate\n- Ping Monitor con dot colorati e barre latenza in tempo reale\n- Tool card con icone in bubble colorate\n- Notifiche toast animate"
+  "changelog": "- Bordi rotanti con gradiente colorato sui tasti Esegui e Ottimizza\n- Effetto glow animato che ruota intorno ai pulsanti\n- Fix DNS: ora applica correttamente su tutte le interfacce attive\n- Fix Nagle: ora disabilita su tutti i GUID di rete (non più ping peggiore)\n- Notifiche toast migrate a CTkToplevel per maggiore affidabilità\n- UI redesign completo con palette violacea più profonda"
 }
