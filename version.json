@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix crash TclError: widget aggiornati da thread dopo cambio pagina ora protetti con try/except\n- Fix GlowFrame: animazioni fermate correttamente al cambio pagina (no memory leak)\n- Fix benchmark DNS: nessun crash se si naviga via durante il test\n- Fix ping monitor: aggiornamenti widget protetti dopo navigazione\n- Fix toast: rimane sempre dentro lo schermo\n- GlowFrame bordo più spesso e colori più brillanti"
+  "changelog": "- Fix definitivo finestra non si apriva: rimosso --uac-admin dal manifest PyInstaller\n- L'app ora si auto-eleva tramite ShellExecuteW (runas) a runtime\n- La finestra appare sempre correttamente sul desktop dopo UAC\n- Fix bug thread-safety e GlowFrame animation leak"
 }
