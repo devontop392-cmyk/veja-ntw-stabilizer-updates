@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix crash TclError: canvas.lower() su tk.Canvas ora usa chiamata Tk diretta\n- Fix DLL python314: VC++ runtime bundlato nell'installer\n- Bordi rotanti con gradiente colorato sui tasti Esegui e Ottimizza\n- Fix DNS e Nagle: applicati correttamente su tutte le interfacce"
+  "changelog": "- Fix bordo glow ora visibile: GlowFrame usa tk.Frame invece di CTkFrame\n- CTkFrame aveva un canvas interno che copriva il glow animato\n- Fix crash TclError canvas.lower su versioni precedenti\n- Fix DNS e Nagle: applicati su tutte le interfacce attive"
 }
