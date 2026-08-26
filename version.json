@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix finestra in background: Win32 AttachThreadInput + SetForegroundWindow + BringWindowToTop\n- Finestra sempre centrata sullo schermo all'avvio\n- Log errori in %APPDATA%\\VejaNetworkStabilizer\\error.log per debug\n- Fix bug thread-safety e GlowFrame animation"
+  "changelog": "- Fix definitivo finestra in background: rimossa auto-elevation all'avvio\n- L'app si apre sempre, anche senza admin\n- Se non admin: banner giallo con pulsante 'Riavvia come Admin'\n- Fix Win32 SetForegroundWindow per portare la finestra in primo piano"
 }
