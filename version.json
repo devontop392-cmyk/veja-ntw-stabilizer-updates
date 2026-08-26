@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix definitivo python314.dll: build passa a --onedir (DLL accanto all'EXE, nessun errore di caricamento)\n- Fix bordo glow animato ora visibile sui tasti\n- Fix DNS e Nagle applicati su tutte le interfacce"
+  "changelog": "- Bordo glow sempre visibile e definito: stroke scuro sotto + colori luminosi sopra\n- Gradiente aggiornato: magenta, viola, blu, ciano (tutti brillanti, nessun colore scuro)\n- Fix definitivo python314.dll con build onedir\n- Fix DNS e Nagle su tutte le interfacce"
 }
