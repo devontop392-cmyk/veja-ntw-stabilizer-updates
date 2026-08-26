@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix finestra non si apriva: aggiunto force-show (deiconify + lift + focus) all'avvio\n- Fix bordo glow sempre visibile con doppio stroke\n- Fix python314.dll con build onedir"
+  "changelog": "- Fix crash TclError: widget aggiornati da thread dopo cambio pagina ora protetti con try/except\n- Fix GlowFrame: animazioni fermate correttamente al cambio pagina (no memory leak)\n- Fix benchmark DNS: nessun crash se si naviga via durante il test\n- Fix ping monitor: aggiornamenti widget protetti dopo navigazione\n- Fix toast: rimane sempre dentro lo schermo\n- GlowFrame bordo più spesso e colori più brillanti"
 }
