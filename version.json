@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "",
-  "changelog": "- Prima release ufficiale\n- Ottimizzazione rete one-click\n- DNS Switcher con benchmark\n- Live ping monitor\n- Sistema licenze integrato"
+  "version": "1.1.0",
+  "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
+  "changelog": "- Nuova sezione Aggiornamenti nella sidebar\n- Controllo aggiornamenti manuale integrato\n- Barra di download e installazione nella pagina\n- Notifica visiva nella sidebar quando esce un update\n- Fix icona personalizzata nei dialog\n- Fix database licenze permanente nel License Manager"
 }
