@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Bordi rotanti con gradiente colorato sui tasti Esegui e Ottimizza\n- Effetto glow animato che ruota intorno ai pulsanti\n- Fix DNS: ora applica correttamente su tutte le interfacce attive\n- Fix Nagle: ora disabilita su tutti i GUID di rete (non più ping peggiore)\n- Notifiche toast migrate a CTkToplevel per maggiore affidabilità\n- UI redesign completo con palette violacea più profonda"
+  "changelog": "- Fix crash TclError: canvas.lower() su tk.Canvas ora usa chiamata Tk diretta\n- Fix DLL python314: VC++ runtime bundlato nell'installer\n- Bordi rotanti con gradiente colorato sui tasti Esegui e Ottimizza\n- Fix DNS e Nagle: applicati correttamente su tutte le interfacce"
 }
