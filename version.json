@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix icona personalizzata nella barra del titolo\n- Sezione Aggiornamenti nella sidebar\n- Controllo aggiornamenti manuale\n- Fix database licenze permanente nel License Manager\n- Notifica visiva aggiornamenti disponibili"
+  "changelog": "- Fix critico: risolto errore avvio (python314.dll)\n- Incluso Visual C++ Redistributable nell'installer\n- Fix icona personalizzata nella barra del titolo\n- Sezione Aggiornamenti nella sidebar\n- Fix database licenze permanente nel License Manager"
 }
