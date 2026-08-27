@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Tornato a build --onefile (un singolo EXE)\n- Fix finestra sempre visibile: rimossa auto-elevation forzata\n- L'app si apre sempre, banner giallo con pulsante 'Riavvia come Admin' se non elevata\n- Fix Win32 SetForegroundWindow per portare la finestra in primo piano\n- Fix bug thread-safety e GlowFrame animation leak"
+  "changelog": "- GUI completamente ridisegnata: sidebar con effetti, nav pill con icone, LED hover sulle scritte\n- Bordi rotondi ovunque (corner_radius 16-18), nessun angolo acuto visibile\n- Animazioni LED sui label: colori neon quando passi il cursore sulle scritte\n- Sidebar: logo box con glow, badge licenza con dot indicator, footer Discord\n- Card con effetto hover bordo luminoso\n- Palette colori più vivida con varianti neon"
 }
