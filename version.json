@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix ping monitor Fortnite: endpoint aggiornato (30ms EU, vicino al ping reale in-game)"
+  "changelog": "- Fix: chiudere la dialog licenza senza chiave valida ora chiude l'app (licenza scaduta non bypassabile)"
 }
