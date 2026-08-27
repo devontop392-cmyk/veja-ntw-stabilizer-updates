@@ -1,5 +1,5 @@
 {
   "version": "1.2.9",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Fix: chiudere la dialog licenza senza chiave valida ora chiude l'app (licenza scaduta non bypassabile)"
+  "changelog": "- Licenza scaduta: pagina dedicata dentro il software invece del popup, sidebar bloccata finche non si attiva una chiave valida"
 }
