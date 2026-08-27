@@ -1,5 +1,5 @@
 {
   "version": "1.2.9",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Licenza scaduta: pagina dedicata dentro il software invece del popup, sidebar bloccata finche non si attiva una chiave valida"
+  "changelog": "- Pagina Home aggiunta nella sidebar: vetrina del software in stile landing page con mockup dell'app"
 }
