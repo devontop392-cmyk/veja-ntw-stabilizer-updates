@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- GUI completamente ridisegnata: sidebar con effetti, nav pill con icone, LED hover sulle scritte\n- Bordi rotondi ovunque (corner_radius 16-18), nessun angolo acuto visibile\n- Animazioni LED sui label: colori neon quando passi il cursore sulle scritte\n- Sidebar: logo box con glow, badge licenza con dot indicator, footer Discord\n- Card con effetto hover bordo luminoso\n- Palette colori più vivida con varianti neon"
+  "changelog": "- Fix ping monitor Fortnite: endpoint aggiornato (30ms EU, vicino al ping reale in-game)"
 }
