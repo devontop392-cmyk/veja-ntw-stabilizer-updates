@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Badge licenza ridisegnato con animazione onda continua\n- Dot sidebar e ping monitor ora punti tondi\n- Intestazioni gruppi sidebar con barra viola\n- Pagina Home showcase\n- Fix licenza scaduta: pagina dedicata invece del popup\n- Fix ping Fortnite (endpoint EU ~30ms)\n- Sviluppatore rinominato in Cuto"
+  "changelog": "- Fix licenza: 0 giorni rimanenti ora considerato scaduto\n- Controllo licenza ogni 60 secondi: se scade mentre l'app e' aperta viene bloccata"
 }
