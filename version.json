@@ -1,5 +1,5 @@
-﻿{
-  "version": "1.3.2",
+{
+  "version": "1.3.3",
   "download_url": "https://raw.githubusercontent.com/devontop392-cmyk/veja-ntw-stabilizer-updates/main/VejaNetworkStabilizer_Setup.exe",
-  "changelog": "- Sidebar a tendina: tutti i gruppi collassabili\n- Nuovo gruppo Gaming PC con Gaming Tools\n- 5 strumenti: Prima di Giocare, Boost FPS, Ripristina FPS, Fortnite FPS Fix, NVIDIA Max FPS"
+  "changelog": "- Fix: Ripristina FPS non si bloccava più\n- Fix critico: aggiornamenti automatici ora funzionanti\n- Sidebar a tendina con gruppo Gaming PC"
 }
